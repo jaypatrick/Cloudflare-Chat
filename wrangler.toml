@@ -1,4 +1,6 @@
-name = "cloudflare-chat"
+# wrangler.toml
+name = 'cold-rain-347d-nlweb'
+# name = "cloudflare-chat"
 main = "src/index.js"
 compatibility_date = "2024-10-21"
 
